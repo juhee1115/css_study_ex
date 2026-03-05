@@ -1,0 +1,19 @@
+*{
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+.green{
+    background-color: pink;
+    width: 200px;
+  list-style-type: none;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+.green li{
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    margin: 10px;
+}
